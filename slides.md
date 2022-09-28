@@ -7,7 +7,7 @@ Program Head of Computer Science and Software Innovation
 
 <br/>
 
-6:00 __Advisory__
+6:00 __Advisory__  
 6:15 __B__   
 6:28 __C__ Pre-Calculus Honors Accelerated    
 6:41 __D__ AP Computer Science   
