@@ -9,10 +9,10 @@ Program Head of Computer Science and Software Innovation
 
 6:00 __Advisory__   
 6:15 __B__   
-6:28 __C__ Pre-Calculus Honors Accelerated    
-6:41 __D__ AP Computer Science   
+6:28 __C__ Pre-Calculus Honors Accelerated (PCHA)      
+6:41 __D__ AP Computer Science (APCS)    
 7:20 __E__   
-7:33 __F__ Pre-Calculus Honors Accelerated    
+7:33 __F__ Pre-Calculus Honors Accelerated (PCHA)  
 8:11 __G__ Honors Computer Science Projects  
 8:24 __H__   
 8:37 __I__
